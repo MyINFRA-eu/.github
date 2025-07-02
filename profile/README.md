@@ -1,5 +1,3 @@
-# MyINFRA.eu
-
 ![MyINFRA.eu logo](../logo/myinfra-banner.png)
 
 ## About
