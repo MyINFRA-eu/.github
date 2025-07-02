@@ -1,6 +1,6 @@
 # MyINFRA.eu
 
-![MyINFRA.eu logo](logo/myinfra-logo.svg)
+![MyINFRA.eu logo](../logo/myinfra-logo.svg)
 
 ## About
 
