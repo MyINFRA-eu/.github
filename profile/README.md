@@ -1,5 +1,7 @@
 # MyINFRA.eu
 
+![MyINFRA.eu logo](logo/myinfra-logo.svg)
+
 ## About
 
 MyINFRA.eu is part off All In One, this project (branding name) handles all the management tasks for All In One and customers. We love to use open source tools and thats is why we also open source our own tools or additions for toolset's we use. We are a big fans off ansible and have open source most off our ansible roles, so you can also benefit from it or even contribute to it. As described below we use multiple types off licenses, depending off the situation.
