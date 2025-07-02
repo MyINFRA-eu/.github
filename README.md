@@ -1,3 +1,3 @@
 # MyINFRA.eu
 
-Public profile information
+GitHub settings for the MyINFRA.eu organization
