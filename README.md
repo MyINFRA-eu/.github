@@ -1,2 +1,1 @@
-# .github
-MyINFRA.eu
+# MyINFRA.eu
