@@ -1,4 +1,4 @@
-![MyINFRA.eu logo](../logo/myinfra-banner.png)
+![MyINFRA.eu logo](../logo/myinfra-logo-grey.svg)
 
 ## About
 
