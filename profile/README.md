@@ -48,16 +48,16 @@ But fear not, most of my work is released under the open source umbrella with fo
 
 Fair-code is not a software license. It describes a software model where software:
 
-:heavy_check_mark: is generally free to use and can be distributed by anybody
-:heavy_check_mark: has its source code openly available
-:heavy_check_mark: can be extended by anybody in public and private communities
-:heavy_check_mark: is commercially restricted by its authors
+- :heavy_check_mark: is generally free to use and can be distributed by anybody
+- :heavy_check_mark: has its source code openly available
+- :heavy_check_mark: can be extended by anybody in public and private communities
+- :heavy_check_mark: is commercially restricted by its authors
 
 ### Open Source
 
 Open Source software which source code is published and made available to the public, enabling anyone to copy, modify and redistribute the source code without paying royalties or fees. Most used licenses are BSD, MIT, GPLv3 or derivatives of this license.
 
-:heavy_check_mark: is free to use and can be distributed by anybody
-:heavy_check_mark: has its source code openly available
-:heavy_check_mark: can be extended by anybody in public and private communities
-:no_entry_sign: :x: is commercially restricted by its authors
+:heavy_check_mark: is free to use and can be distributed by anybody \
+:heavy_check_mark: has its source code openly available \
+:heavy_check_mark: can be extended by anybody in public and private communities \
+:no_entry_sign: :x: is commercially restricted by its authors \
